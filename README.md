@@ -1,5 +1,9 @@
 # Thai-Covid-Discord-Bot-Example
-DISCLAIMER: This may not work if the government has updated it's JSON source
+## DISCLAIMER
+This may not work any api break changes made by the government and any new discord.py break changes.
+
+## NOTE
+This project is discontinued. I might rewrite it in the future.
 
 An COVID-19 Checker Discord Bot Example (for Thailand only) made with Discord.py using the DDC OpenData Api provided by the government.
 
