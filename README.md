@@ -22,7 +22,9 @@ Acts as a discord bot that scrapes data of COVID-19 stats in Thailand and sends 
 
 ## Requirements
 Install the following
+
 discord.py - ``` pip install discord.py ```
+
 discord-buttons-plugin - ``` pip install discord-buttons-plugin ```
 
 ## License
